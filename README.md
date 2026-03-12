@@ -30,3 +30,9 @@ O projeto demonstrou que ferramentas de IA podem ser utilizadas como um "segundo
 - Organização de conhecimento pessoal
 - Apoio à tomada de decisões
 - Gestão de informação
+
+  ## 🔗 Acesso ao Projeto
+
+Clique no link abaixo para acessar o projeto completo no NotebookLM:
+
+[Ver projeto no NotebookLM](https://notebooklm.google.com/notebook/SEU-LINK-AQUI)
